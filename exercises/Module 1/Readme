@@ -1,0 +1,12 @@
+Exercises completed in module 1: how to design functions 
+These include exercises:
+
+- BSL P1 (arithmetic experessions)
+- BSL P3 (creating images using image composition primitives)
+- BSL P5 (writing expressions to operate on booleans using primitives)
+- BSL P6 (step by step evaluation of a call to a function that calls a number primitive in its body)
+- BSL P15 (write function that produces larger of 2 numbers)
+- BSL P16 (step by step evaluation of a call to a function that has if statement in its body)
+
+Numbers seem to skip because these were the core exercises recommended by the instructor. 
+As I already have some knowledge in programming, I aim to verify my understanding with the core exercises only and supplement with further exercises if needed.
