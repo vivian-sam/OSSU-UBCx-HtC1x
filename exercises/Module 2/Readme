@@ -1,0 +1,19 @@
+Exercises for module 2 : How to Design Functions
+
+Main focus of the module is to learn the fundametal function design method: 
+https://courses.edx.org/courses/course-v1:UBCx+HtC1x+2T2017/77860a93562d40bda45e452ea064998b/#HtDF
+
+The design method is: 
+    1. Signature, purpose and stub.
+    2. Define examples, wrap each in check-expect.
+    3. Template and inventory.
+    4. Code the function body.
+    5. Test and debug until correct
+
+
+Exercises completed includes:
+HtDF P2 - Less Than 5
+    Design a problem to check if the length of a string is less than 5.
+    
+HtDF P3 - Boxify
+    Design a function to put a box around a given image.
